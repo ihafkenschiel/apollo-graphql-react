@@ -1,0 +1,38 @@
+{
+    "data": {
+        "allCourses": [
+            {
+                "id": 1,
+                "title": "Angular - The Complete Gulde",
+                "author": "Maximilian SchwarzmU11er",
+                "description": "Master Angular (Angular 2+, incl. Angular 5) and build awesome, reactive web apps with the successor of Angular.js",
+                "topic": "Angular",
+                "url": "http://codingthesmartway.com/courses/angular2-complete-guide/"
+            },
+            {
+                "id": 2,
+                "title": "GraphoL with React: The Complete Developer Guide",
+                "author": "Stephen Glider",
+                "descriptlon": "Learn and master GraphQL by building real web apps with React and Node",
+                "topic": "React",
+                "url": "https://codingthesmartway.com/courses/graphq1-react"
+            },
+            {
+                "id": 3,
+                "title": "The Complete Node.js Developer Course",
+                "author": "Andrew Mead, Rob Percival",
+                "descriptlon": "Learn Node.js by building real-world I applications with Node, Express, MongoDB, Mocha, and morel",
+                "topic": "Node.js",
+                "url": "https://codingthesmartway.com/courses/nodejs/"
+            },
+            {
+                "id": 4,
+                "title": "Node.js, Express & MongoDB Dev to Deployment",
+                "author": "Brad Traversy",
+                "description": "Learn by example building & deploying real-world Node.js applications from absolute scratch",
+                "topic": "Node.js",
+                "url": "https://codingthesmartway.com/courses/nodejs-express-mongodb/"
+            }
+        ]
+    }
+}
