@@ -1,6 +1,6 @@
 ## Run GraphQL Mock Server
 
-`json-graphql-server graphql-server.json --p 5000`
+<!-- `json-graphql-server graphql-server.json --p 5000`
 
 Example query:
 
@@ -12,7 +12,7 @@ Example query:
     status
   }
 }
-```
+``` -->
 
 
 ## Run React App
